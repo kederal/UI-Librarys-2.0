@@ -21,7 +21,7 @@ Color Table:
     NotificationUIStrokeColor = Color3.fromRGB(125, 125, 125)
 }
 ```
-!['Default Theme Image'](Images/DefaultTheme.png 'Default Theme')
+![](https://github.com/VisualRoblox/Roblox/raw/main/UI-Libraries/Visual%20UI%20Library/Images/DefaultTheme.png)
 
 ## Lighter Theme
 Name: Lighter  
