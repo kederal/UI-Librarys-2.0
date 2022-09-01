@@ -43,7 +43,7 @@ Color Table:
     NotificationUIStrokeColor = Color3.fromRGB(125, 125, 125)
 }
 ```
-!['Lighter Theme Image'](Images/LighterTheme.png 'Lighter Theme')
+![](https://github.com/VisualRoblox/Roblox/raw/main/UI-Libraries/Visual%20UI%20Library/Images/LighterTheme.png)
 
 # Light Theme
 Name: Light  
@@ -65,7 +65,7 @@ Color Table:
     NotificationUIStrokeColor = Color3.fromRGB(0, 0, 0)
 }
 ```
-!['Light Theme Image'](Images/LightTheme.png 'Light Theme')
+![](https://github.com/VisualRoblox/Roblox/raw/main/UI-Libraries/Visual%20UI%20Library/Images/LightTheme.png)
 
 # Light+ Theme
 Name: Light+  
@@ -87,7 +87,7 @@ Color Table:
     NotificationUIStrokeColor = Color3.fromRGB(0, 0, 0)
 }
 ```
-!['Light+ Theme Image'](Images/Light+Theme.png 'Light+ Theme')
+![](https://github.com/VisualRoblox/Roblox/raw/main/UI-Libraries/Visual%20UI%20Library/Images/Light+Theme.png)
 
 # Discord Theme
 Name: Discord  
@@ -109,7 +109,7 @@ Color Table:
     NotificationUIStrokeColor = Color3.fromRGB(75, 75, 75)
 }
 ```
-!['Discord Theme Image'](Images/DiscordTheme.png 'Discord Theme')
+![](https://github.com/VisualRoblox/Roblox/raw/main/UI-Libraries/Visual%20UI%20Library/Images/DiscordTheme.png)
 
 # Red And Black Theme
 Name: RedAndBlack  
@@ -131,7 +131,7 @@ Color Table:
     NotificationUIStrokeColor = Color3.fromRGB(255, 0, 0)
 }
 ```
-!['Red And Black Theme Image'](Images/RedAndBlackTheme.png 'Red And Black Theme')
+![https://github.com/VisualRoblox/Roblox/raw/main/UI-Libraries/Visual%20UI%20Library/Images/RedAndBlackTheme.png]()
 
 # Nordic Dark Theme
 Name: Nordic Dark  
@@ -153,7 +153,7 @@ Color Table:
     NotificationUIStrokeColor = Color3.fromRGB(50, 60, 70)
 }
 ```
-!['Nordic Dark Theme Image'](Images/NordicDarkTheme.png 'Nordic Dark Theme')
+![](https://github.com/VisualRoblox/Roblox/raw/main/UI-Libraries/Visual%20UI%20Library/Images/NordicDarkTheme.png)
 
 # Nordic Light Theme
 Name: Nordic Light  
@@ -175,7 +175,7 @@ Color Table:
     NotificationUIStrokeColor = Color3.fromRGB(67, 75, 94)
 }
 ```
-!['Nordic Light Theme Image'](Images/NordicLightTheme.png 'Nordic Light Theme')
+![](https://github.com/VisualRoblox/Roblox/raw/main/UI-Libraries/Visual%20UI%20Library/Images/NordicLightTheme.png)
 
 # Purple Theme
 Name: Purple  
@@ -197,7 +197,7 @@ Color Table:
     NotificationUIStrokeColor = Color3.fromRGB(60, 60, 80)
 }
 ```
-!['Purple Theme Image'](Images/PurpleTheme.png 'Purple Theme')
+![](https://github.com/VisualRoblox/Roblox/raw/main/UI-Libraries/Visual%20UI%20Library/Images/PurpleTheme.png)
 
 # Sentinel Theme
 Name: Sentinel  
@@ -219,7 +219,7 @@ Color Table:
     NotificationUIStrokeColor = Color3.fromRGB(50, 50, 50)
 }
 ```
-!['Sentinel Theme Image'](Images/SentinelTheme.png 'Sentinel Theme')
+![](https://github.com/VisualRoblox/Roblox/raw/main/UI-Libraries/Visual%20UI%20Library/Images/SentinelTheme.png)
 
 # Synapse X Theme
 Name: Synapse X  
@@ -241,7 +241,7 @@ Color Table:
     NotificationUIStrokeColor = Color3.fromRGB(70, 70, 70)
 }
 ```
-!['Synapse X Image'](Images/SynapseXTheme.png 'Synapse X Theme')
+![](https://github.com/VisualRoblox/Roblox/raw/main/UI-Libraries/Visual%20UI%20Library/Images/SynapseXTheme.png)
 
 # Krnl Theme
 Name: Krnl  
@@ -263,7 +263,7 @@ Color Table:
     NotificationUIStrokeColor = Color3.fromRGB(60, 60, 60)
 }
 ```
-!['Krnl Image'](Images/KrnlTheme.png 'Krnl Theme')
+![](https://github.com/VisualRoblox/Roblox/raw/main/UI-Libraries/Visual%20UI%20Library/Images/KrnlTheme.png)
 
 # Script-Ware Theme
 Name: Script-Ware  
@@ -285,7 +285,7 @@ Color Table:
     NotificationUIStrokeColor = Color3.fromRGB(50, 50, 50)
 }
 ```
-!['Script-Ware Image'](Images/Script-WareTheme.png 'Script-Ware Theme')
+![](https://github.com/VisualRoblox/Roblox/blob/main/UI-Libraries/Visual%20UI%20Library/Images/Script-WareTheme.png)
 
 # Kiriot Theme
 Name: Kiriot  
@@ -307,4 +307,4 @@ Color Table:
     NotificationUIStrokeColor = Color3.fromRGB(255, 170, 60)
 }
 ```
-!['Kiriot Image'](Images/KiriotTheme.png 'Kiriot Theme')
+![](https://github.com/VisualRoblox/Roblox/raw/main/UI-Libraries/Visual%20UI%20Library/Images/KiriotTheme.png)
