@@ -2,7 +2,7 @@
 
 ## Getting Loadstring
 ```lua
-local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/VisualRoblox/Roblox/main/UI-Libraries/Visual%20UI%20Library/Source.lua'))()
+local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/kederal/UI-Librarys-2.0/main/Visual/UI-Library/Source.lua'))()
 ```
 
 ## Creating Window
