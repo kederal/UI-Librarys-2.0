@@ -15,7 +15,7 @@ local Library = {
 		IsBusy = false,
 	},
 	Settings = {
-		ConfigPath = nil,
+		ConfigPath = options.title[1],
 		MaxNotifLines = 5,
 		MaxNotifStacking = 5,
 	},
@@ -47,7 +47,7 @@ local ListenForInput = false
 -- Directory
 
 local Directory = SelfModules.Directory.Create({
-	[tostring(options.title[1])] = {
+	['Vynixius UI Library'] = {
 		"Configs",
 	},
 })
