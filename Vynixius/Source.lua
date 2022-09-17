@@ -47,7 +47,7 @@ local ListenForInput = false
 -- Directory
 
 local Directory = SelfModules.Directory.Create({
-	[tostring(options.title)] = {
+	['lol'] = {
 		"Configs",
 	},
 })
