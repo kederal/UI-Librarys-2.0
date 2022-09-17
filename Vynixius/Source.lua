@@ -15,7 +15,7 @@ local Library = {
 		IsBusy = false,
 	},
 	Settings = {
-		ConfigPath = options.title[1],
+		ConfigPath = tostring(options.title[1]),
 		MaxNotifLines = 5,
 		MaxNotifStacking = 5,
 	},
