@@ -47,7 +47,7 @@ local ListenForInput = false
 -- Directory
 
 local Directory = SelfModules.Directory.Create({
-	['Vynixius UI Library'] = {
+	[tostring(options.title)] = {
 		"Configs",
 	},
 })
